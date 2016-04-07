@@ -21,9 +21,7 @@ discovered_by = eastern
 discovered_by = western
 
 
-1555.1.1 = { unrest = 5 } # General discontent with the Janissaries' dominance
-1556.1.1 = { unrest = 0 }
-1566.1.1 = {
+1405.1.1 = {
 	owner = TUR
 	controller = TUR
 	add_core = TUR

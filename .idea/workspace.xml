@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7f7950-8e12-4847-ad4f-81ec0ad2524c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/test2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/listold.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/164 - Naxos.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/164 - Naxos.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/2348 - Chios.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/2348 - Chios.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/2406 - Ingil.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/2406 - Ingil.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/2447 - Mantrega.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/2447 - Mantrega.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/282 - Yedisan.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/282 - Yedisan.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/283 - Zaporozhia.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/283 - Zaporozhia.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/285 - Kaffa.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/285 - Kaffa.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/286 - Azow.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/286 - Azow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4110 - Sutherland.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4110 - Sutherland.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4111 - Saintonge.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4111 - Saintonge.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4112 - Cahors.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4112 - Cahors.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4113 - Rovaniemi.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4113 - Rovaniemi.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4114 - Northern Lappmarks.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4114 - Northern Lappmarks.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4115 - Mazyr.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4115 - Mazyr.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4116 - Upper Oka.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4116 - Upper Oka.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4117 - Bezhetsk.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4117 - Bezhetsk.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4118 - Desmond.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4118 - Desmond.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4119 - Sligo.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4119 - Sligo.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4120 - Kildare.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4120 - Kildare.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4122 - Shenkursk.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4122 - Shenkursk.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4123 - Birkaland.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4123 - Birkaland.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4124 - Kovero.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4124 - Kovero.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4125 - Szolnok.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4125 - Szolnok.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4126 - Bacs.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4126 - Bacs.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4127 - Turda.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4127 - Turda.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4128 - Kiralyfold.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4128 - Kiralyfold.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4129 - UstVym.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4129 - UstVym.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4130 - Somerset.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/4130 - Somerset.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/list.txt" afterPath="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/list.txt" />
     </list>
     <ignored path="mod.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +53,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test2.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/test2.txt">
+      <file leaf-file-name="YearsofRiceandSalt.mod" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.091644205">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Genocide_Generator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/Genocide_Generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listold.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/listold.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/list.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -37,6 +99,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/list.txt" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -101,14 +170,212 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YearsofRiceandSalt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="history" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="provinces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YearsofRiceandSalt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="history" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Changed Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Genocide_Generator">
+    <configuration default="false" name="Genocide_Generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/Genocide_Generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mod" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Genocide_Generator" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Genocide_Generator" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -133,16 +400,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -175,6 +442,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/Genocide_Generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/listold.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt/history/provinces/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YearsofRiceandSalt.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.091644205">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
